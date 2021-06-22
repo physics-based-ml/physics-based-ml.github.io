@@ -57,19 +57,19 @@ Various codes attached to papers (see above).
 
 ---
 
-[Dynamic Boltzmann Machine for Lattice Chemical Kinetics](https://github.com/physics-based-ml/DynamicBoltzmann)
+[C++ library for Dynamic Boltzmann Machines for Lattice Chemical Kinetics](https://github.com/physics-based-ml/DynamicBoltzmann)
 
 [<img src="assets/software/dynamic_boltzmann.png" alt="drawing" height="200"/>](https://github.com/physics-based-ml/DynamicBoltzmann)
 
 ---
 
-[Lattice Gillespie C++ library](https://github.com/physics-based-ml/LatticeGillespieCpp)
+[C++ library for Gillespie simulations on a lattice](https://github.com/physics-based-ml/LatticeGillespieCpp)
 
 [<img src="assets/software/lattice_gillespie.png" alt="drawing" height="200"/>](https://github.com/physics-based-ml/LatticeGillespieCpp)
 
 ---
 
-[Gillespie C++ library](https://github.com/physics-based-ml/gillespie-cpp)
+[C++ library for Gillespie simulations](https://github.com/physics-based-ml/gillespie-cpp)
 
 [<img src="assets/software/gillespie.jpg" alt="drawing" height="200"/>](https://github.com/physics-based-ml/gillespie-cpp)
 

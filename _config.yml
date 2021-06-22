@@ -27,6 +27,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 logo: /assets/logo.png
+github_logo: /assets/GitHub_Logo.png
 
 repository: physics-based-ml/physics-based-ml.github.io
 # github: [metadata]
