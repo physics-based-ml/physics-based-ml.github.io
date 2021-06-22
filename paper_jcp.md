@@ -2,7 +2,7 @@
 
 <img src="assets/jcp/fig_7.png" alt="drawing" width="500"/>
 
-[<img src="assets/GitHub_Logo.png" alt="drawing" width="200"/>](https://github.com/smrfeld/DyBoltzReducedModelsPaper)
+[<img src="assets/GitHub_Logo.png" alt="drawing" width="200"/>](https://github.com/physics-based-ml/DyBoltzReducedModelsPaper)
 [<img src="assets/arXiv_Logo.png" alt="drawing" width="200"/>](https://arxiv.org/abs/1803.01063)
 
 ## Publication
@@ -15,4 +15,4 @@ Finding reduced models of spatially distributed chemical reaction networks requi
 
 ## Code & directions
 
-A complete description of the code can be found on the [GitHub page's](https://github.com/smrfeld/DyBoltzReducedModelsPaper) Readme files. All code is written in Mathematica notebooks.
+A complete description of the code can be found on the [GitHub page's](https://github.com/physics-based-ml/DyBoltzReducedModelsPaper) Readme files. All code is written in Mathematica notebooks.

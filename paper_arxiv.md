@@ -2,7 +2,7 @@
 
 <img src="assets/arxiv/fig_2.png" alt="drawing" width="500"/>
 
-[<img src="assets/GitHub_Logo.png" alt="drawing" width="200"/>](https://github.com/smrfeld/ReducedLotkaVolterra)
+[<img src="assets/GitHub_Logo.png" alt="drawing" width="200"/>](https://github.com/physics-based-ml/ReducedLotkaVolterra)
 [<img src="assets/arXiv_Logo.png" alt="drawing" width="200"/>](https://arxiv.org/abs/1905.12122)
 
 [<img src="assets/supplemental.png" alt="drawing" width="400"/>](assets/arxiv/supplemental.pdf)
@@ -13,4 +13,4 @@ The moments of spatial probabilistic systems are often given by an infinite hier
 
 ## Code & directions
 
-A complete description of the code can be found on the [GitHub page's](https://github.com/smrfeld/ReducedLotkaVolterra) Readme files.
+A complete description of the code can be found on the [GitHub page's](https://github.com/physics-based-ml/ReducedLotkaVolterra) Readme files.

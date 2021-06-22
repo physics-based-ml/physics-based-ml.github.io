@@ -2,7 +2,7 @@
 
 <img src="assets/pre/fig_8.png" alt="drawing" width="500"/>
 
-[<img src="assets/GitHub_Logo.png" alt="drawing" width="200"/>](https://github.com/smrfeld/DynamicBoltzmannPaper.git)
+[<img src="assets/GitHub_Logo.png" alt="drawing" width="200"/>](https://github.com/physics-based-ml/DynamicBoltzmannPaper.git)
 [<img src="assets/arXiv_Logo.png" alt="drawing" width="200"/>](https://arxiv.org/abs/1808.08630)
 
 ## Publication
@@ -15,4 +15,4 @@ Many physical systems are described by probability distributions that evolve in 
 
 ## Code & directions
 
-A complete description of the code can be found on the [GitHub page's](https://github.com/smrfeld/DynamicBoltzmannPaper.git) Readme files.
+A complete description of the code can be found on the [GitHub page's](https://github.com/physics-based-ml/DynamicBoltzmannPaper.git) Readme files.

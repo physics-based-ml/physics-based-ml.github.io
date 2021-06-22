@@ -2,7 +2,7 @@
 
 <img src="assets/latest/fig_1.png" alt="drawing" width="500"/>
 
-[<img src="assets/GitHub_Logo.png" alt="drawing" width="200"/>](https://github.com/smrfeld/physics-based-ml-reaction-networks)
+[<img src="assets/GitHub_Logo.png" alt="drawing" width="200"/>](https://github.com/physics-based-ml/physics-based-ml-reaction-networks)
 [<img src="assets/arXiv_Logo.png" alt="drawing" width="200"/>](XXX)
 
 ## Abstract
@@ -11,7 +11,7 @@ We present a machine learning method for model reduction which incorporates doma
 
 ## Code & directions
 
-A complete description of the code can be found on the [GitHub page's](https://github.com/smrfeld/physics-based-ml-reaction-networks) Readme files.
+A complete description of the code can be found on the [GitHub page's](https://github.com/physics-based-ml/physics-based-ml-reaction-networks) Readme files.
 
 ### Requirements
 
@@ -24,7 +24,7 @@ brew install dvc
 ### Download
 
 Either:
-* Grab the [latest release .zip](https://github.com/smrfeld/physics-based-ml-reaction-networks/releases), **or**
+* Grab the [latest release .zip](https://github.com/physics-based-ml/physics-based-ml-reaction-networks/releases), **or**
 * Clone the repo: 
 ```
 git clone https://github.com/smrfeld/physics-based-ml-reaction-networks/releases
@@ -32,7 +32,7 @@ git clone https://github.com/smrfeld/physics-based-ml-reaction-networks/releases
 
 ### Directions
 
-* [Stochastic simulations](https://github.com/smrfeld/physics-based-ml-reaction-networks/tree/main/stochastic_simulations/ml_training_data).
-* [Analytic forms of reaction approximations](https://github.com/smrfeld/physics-based-ml-reaction-networks/tree/main/learn_ip3/analytic_forms).
-* [Train ML models that generalize in IP3 concentration](https://github.com/smrfeld/physics-based-ml-reaction-networks/tree/main/learn_ip3).
-* [Train ML models that generalize in IP3R concentration](https://github.com/smrfeld/physics-based-ml-reaction-networks/tree/main/learn_ip3r).
+* [Stochastic simulations](https://github.com/physics-based-ml/physics-based-ml-reaction-networks/tree/main/stochastic_simulations/ml_training_data).
+* [Analytic forms of reaction approximations](https://github.com/physics-based-ml/physics-based-ml-reaction-networks/tree/main/learn_ip3/analytic_forms).
+* [Train ML models that generalize in IP3 concentration](https://github.com/physics-based-ml/physics-based-ml-reaction-networks/tree/main/learn_ip3).
+* [Train ML models that generalize in IP3R concentration](https://github.com/physics-based-ml/physics-based-ml-reaction-networks/tree/main/learn_ip3r).
