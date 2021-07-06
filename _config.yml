@@ -23,11 +23,17 @@ email: oernst@ucsd.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Methods and papers related to physics-based maching learning for modeling stochastic reaction networks, as developed in the <a href="assets/thesis/oliver_ernst_thesis.pdf">thesis</a> of <a href="https://oliver-ernst.com">Oliver K. Ernst</a>
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "https://physics-based-ml.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+github_username: physics-based-ml
 logo: /assets/logo.png
 github_logo: /assets/GitHub_Logo.png
+
+social:
+  name: Oliver K. Ernst
+  links:
+    - https://github.com/smrfeld
+    - https://oliver-ernst.com
+    - https://www.linkedin.com/in/oliver-k-ernst-270b9a1a1/
 
 repository: physics-based-ml/physics-based-ml.github.io
 # github: [metadata]
@@ -40,10 +46,13 @@ name_cnl: Terrence Sejnowski & Tom Bartol
 affiliation_cnl: Computational Neurobiology Lab, Salk Institute for Biological Studies
 url_cnl: https://cnl.salk.edu 
 
+google_site_verification: dLd9YdLPC0cRDH920oIm4cdkPkADRF8HbHp0aGI_ZVI
+
 # Build settings
 theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 
 # Exclude from processing.
 # The following items will not be processed, by default.
