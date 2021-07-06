@@ -21,7 +21,7 @@
 title: Physics-based machine learning for stochastic reaction networks
 email: oernst@ucsd.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Methods and papers related to physics-based maching learning for modeling stochastic reaction networks, as developed in the thesis of <a href="https://oliver-ernst.com">Oliver K. Ernst</a>
+  Methods and papers related to physics-based maching learning for modeling stochastic reaction networks, as developed in the <a href="assets/thesis/oliver_ernst_thesis.pdf">thesis</a> of <a href="https://oliver-ernst.com">Oliver K. Ernst</a>
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb

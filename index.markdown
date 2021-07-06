@@ -5,6 +5,14 @@
 layout: default
 ---
 
+# Thesis
+
+---
+
+[Modeling reaction-diffusion systems with dynamic Boltzmann distributions](assets/thesis/oliver_ernst_thesis.pdf)
+
+[<img src="assets/thesis/thesis.png" alt="drawing" width="500"/>](assets/thesis/oliver_ernst_thesis.pdf)
+
 # Papers & Code
 
 ---
